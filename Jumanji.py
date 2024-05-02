@@ -1,3 +1,4 @@
+
 import random, math
 
 def zero_lives_left_quit_game():   
@@ -1762,6 +1763,6 @@ millions_in_game = False
 def main ():
     instructions_for_game()
 
-start_game = main()
+main()
 
-print(start_game)
+
