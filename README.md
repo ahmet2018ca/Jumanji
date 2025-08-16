@@ -1,6 +1,3 @@
-# NOTE!
-**Looking back I kind of didn't know all the good coding practices, so reading this code back kinda hurts my eyes (all of the global variables...) but it also makes me feel good since I have grown so much since then and my code today looks 10X better and is 10X more efficent. I will always keep this code as it is since I will want to look back at my first big project and see how far I have come since then :D**
-
 # Jumanji Adventure Game
 
 Welcome to the GitHub repository for the Jumanji Adventure Game! This text-based game offers a rich interactive story with multiple paths and outcomes based on the choices you make. Dive into a world of adventure, where each decision can lead to drastically different results. Whether you're dealing with a horde of angry chimpanzees or the mighty Midas, your choices will shape your journey through this wild game.
